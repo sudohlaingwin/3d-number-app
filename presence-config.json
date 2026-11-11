@@ -1,0 +1,1 @@
+{"dbUrl":"","enabled":false,"note":"Firebase Realtime Database for 3D user-app presence. Set enabled=true and dbUrl=https://<project>-default-rtdb.<region>.firebasedatabase.app after creating the project. User app v104+ and Admin app v13+ read this file on launch."}
